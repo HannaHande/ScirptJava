@@ -1,0 +1,15 @@
+.liha
+{
+  font-weight:bolder;
+  color: blue;
+}
+body
+{
+  margin: 10px
+}
+table,th,td
+{
+  border: 5px dotted green;
+  border-collapse: collapse;
+  padding: 10px;
+}
