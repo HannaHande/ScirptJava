@@ -1,0 +1,45 @@
+body
+{
+  width: 800px;
+  margin: auto;
+
+}
+header, footer
+{
+  background-color: #609732;
+  padding: 5px 0px 10px 10px;
+}
+header >h1
+{
+  color: #49db3b;
+}
+nav
+{
+  width: 200px;
+  margin: auto;
+  background-color: #add5a9;
+}
+aside
+{
+
+}
+section
+{
+  background-color: #B9E397;
+  width: 550px;
+}
+aside, section
+{
+  padding: 5px 0px 10px 10px;
+}
+aside
+{
+  float: right;
+  height: 352px;
+  background-color: #add5a9;
+  width: 260px;
+}
+aside > p
+{
+  padding: 10px;
+}
