@@ -28,3 +28,9 @@ aside
   height: 300px;
   background-color: #fcb674;
   width: 200px;}
+  .menu
+  {float: left;
+  width: 20%}
+  .menuitem
+  {padding: 8px;
+  margin-top: 7px;}
