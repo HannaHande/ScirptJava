@@ -1,36 +1,35 @@
 .liha
-{font-weight: bolder;
-color: black;
+{
+font-weight: bolder;
+color: #e6face;
 }
 body
-{background-color: #ebe1c2;
+{
 
 }
 header
-{  background-image:url(https://kuviasuomesta.fi/wp-content/uploads/2019/11/jaatyneet-lehdet.jpg);
-  background-size: 400px 400px 400px 400px;
-  background-position: center;
-  padding: 10px;
+{
+background-color: green;
+padding: 20px;
 }
+
 nav
 {  width: 850px;
   margin: auto;
 }
 a
-{margin-right: 50px; color: #e6face;
+{
+  margin-right: 20px; color: #e6face;
 }
 aside, h2
-{color: black;
-  padding: 20px;
+{
+  color: black;
+  padding: 10px 10px;
 }
 aside
-{float: right;
+{
+  float: right;
   height: 300px;
-  background-color: #fcb674;
-  width: 200px;}
-  .menu
-  {float: left;
-  width: 20%}
-  .menuitem
-  {padding: 8px;
-  margin-top: 7px;}
+  background-color: #90EE90;
+  width: 200px;
+}
