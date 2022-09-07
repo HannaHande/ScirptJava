@@ -5,31 +5,41 @@ color: #e6face;
 }
 body
 {
-
+background-image: url("kuvat/muuri.jpg");
+background-size:cover;
 }
 header
 {
-background-color: green;
+background-color: black;
 padding: 20px;
+
 }
 
 nav
 {  width: 850px;
   margin: auto;
 }
+
 a
 {
   margin-right: 20px; color: #e6face;
 }
-aside, h2
+
+aside
 {
-  color: black;
+  color: #e6face;
   padding: 10px 10px;
 }
+
 aside
 {
   float: right;
   height: 300px;
-  background-color: #90EE90;
+  background-color: black;
   width: 200px;
+}
+
+article
+{
+  color: black;
 }
