@@ -41,5 +41,9 @@ aside
 
 article
 {
-  color: black;
+  background-color: black;
+  background-size: 20px;
+  font-weight: bold;
+  font-size-adjust: auto;
+
 }
