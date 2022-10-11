@@ -1,5 +1,7 @@
+
 img
 {
-float: right;
-width: auto;
+  width: 200px;
+  clear: both;
+  float: left;
 }
