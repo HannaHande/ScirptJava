@@ -1,7 +1,10 @@
-
-img
+#eka
 {
-  width: 200px;
-  clear: both;
   float: left;
+}
+#toka
+{
+  clear: both;
+  float: right;
+  width: 200px;
 }
