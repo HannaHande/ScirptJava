@@ -1,0 +1,9 @@
+table
+{
+width: 450px
+border-collapse: collapse;
+}
+table thead th
+{
+  background-color: #DCDCDC;
+}
