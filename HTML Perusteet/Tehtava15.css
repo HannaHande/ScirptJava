@@ -1,9 +1,26 @@
 table
 {
-width: 450px
-border-collapse: collapse;
+width: 500px;
+border-collapse:collapse;
 }
-table thead th
+table thead th, thead td
 {
   background-color: #DCDCDC;
+  font-weight:bold;
+
+}
+ thead td
+ {
+   border: 1px solid black;
+ }
+tfoot th
+{
+  background-color: #DCDCDC;
+  text-align: right;
+    border: 1px solid black;
+}
+td
+{
+  text-align: right;
+ border: 1px solid black;
 }
