@@ -24,3 +24,7 @@ td
   text-align: right;
  border: 1px solid black;
 }
+tr:nth-child(even)
+{
+background-color: #e5e4e2;
+}
